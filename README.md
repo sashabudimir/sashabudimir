@@ -1,16 +1,56 @@
-## Hi there 👋
+### Hi there 👋 I'm Sasha  
 
-<!--
-**sashabudimir/sashabudimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software & web development student transitioning from healthcare into tech.  
+I enjoy building real-world applications, solving problems, and continuously improving my skills.
 
-Here are some ideas to get you started:
+💡 Career change powered by curiosity, growth mindset, and persistence.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack & Tools
+
+**Languages & Frameworks**
+| C# | JavaScript | HTML | CSS | SQL | Node.js |
+
+**Skills**
+- Object-Oriented Programming (C#)
+- Web Development (HTML, CSS, JS)
+- Databases & SQL
+- Debugging & problem-solving
+
+---
+
+### 🌱 Currently Learning
+- Full-stack development
+- C# OOP & .NET fundamentals
+- APIs & backend logic
+- Database design & SQL queries
+- Building projects from scratch
+
+---
+
+### 🚀 Projects
+📍 *More projects coming — building and learning daily!*
+
+| **Tired Coder Adventure Game** | Simple web-based text game | HTML, CSS, JavaScript |
+
+*(More to be added soon...)*
+
+---
+
+### 📊 GitHub Stats
+> _(These update automatically)_
+
+![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashabudimir&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashabudimir&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect
+
+💼 **LinkedIn:** (https://www.linkedin.com/in/sasa-budimir-5a8459279/) 
+🌐 **Portfolio:** _in progress_
+
+> “Always learning. Always building.”
+
+
