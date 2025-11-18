@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Sasha  
 
 I'm a software & web development student transitioning from healthcare into tech.  
-I enjoy building real-world applications, solving problems, and continuously improving my skills.
-
-💡 Career change powered by curiosity, growth mindset, and persistence.  
+I enjoy building real-world applications, solving problems, and continuously groeing and improving my skills.
 
 ---
 
@@ -33,6 +31,8 @@ I enjoy building real-world applications, solving problems, and continuously imp
 📍 *More projects coming — building and learning daily!*
 
 | **Tired Coder Adventure Game** | Simple web-based text game | HTML, CSS, JavaScript |
+
+| **Dungeon Crawler – Character Manager** | A C# console app that lets players create characters, assign skills, and manage attribute points using OOP principles. | C#, .NET, OOP (Classes, Lists, Methods) |
 
 *(More to be added soon...)*
 
